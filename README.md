@@ -1,5 +1,7 @@
 # PhoenixSteamUnlocker
 
+## 注意！压缩包需要更改解压目标文件夹为 `PhoenixSteamUnlocker` (建议下载安装包)！
+
 一款免费的 Steam 破解器，由 DijkstraPhoenix 制作，未经允许，禁止转载
 
 下载方式：打开你所需要下载的版本的文件夹，可以下载绿色版（压缩文件），或安装程序（可执行文件）
